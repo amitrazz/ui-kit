@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/amitrazz/ui-kit/compare/v1.0.0...v1.1.0) (2025-07-19)
+
+
+### Features
+
+* init commit ([13fca5d](https://github.com/amitrazz/ui-kit/commit/13fca5d3a1f381fa9c1df721ca7ac5a220cff76a))
+
 # 1.0.0 (2025-07-19)
 
 
