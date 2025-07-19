@@ -1,5 +1,6 @@
 module.exports = {
   branches: ['master'],
+  repositoryUrl: 'https://github.com/amitrazz/ui-kit',
   plugins: [
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
