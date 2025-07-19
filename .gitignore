@@ -37,7 +37,3 @@ coverage/
 # Misc
 *.log
 *.tgz
-package-lock.json
-
-# Optional: don't ignore lockfile if you're building reproducible builds
-# package-lock.json
