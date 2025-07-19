@@ -1,5 +1,4 @@
 {
-  "version": "1.0.0",
   "type": "module",
   "name": "@amitrazz/ui-kit",
   "main": "dist/ui-kit.cjs.js",
