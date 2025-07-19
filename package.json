@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "name": "@amitrazz/ui-kit",
+  "main": "dist/ui-kit.cjs.js",
+  "module": "dist/ui-kit.es.js",
+  "types": "dist/types/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "peerDependencies": {
+    "react": ">=17",
+    "react-dom": ">=17"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": ">=17",
+    "react-dom": ">=17"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.3",
+    "@semantic-release/npm": "^12.0.2",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.7.0",
+    "conventional-changelog-conventionalcommits": "^9.1.0",
+    "rollup": "^4.45.1",
+    "semantic-release": "^24.2.7",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.5"
+  }
+}
