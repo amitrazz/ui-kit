@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Use Node.js 20.11.x
         uses: actions/setup-node@v4
         with:
-          node-version: 18
-          registry-url: "https://registry.npmjs.org/"
+          node-version: 20.11.x # or 20.8.1 minimum
+
+      - run: node -v # ✅ should print v20.11.0 or similar
 
       - run: npm ci
 
