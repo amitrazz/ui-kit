@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/amitrazz/ui-kit/compare/v1.1.0...v1.1.1) (2025-07-19)
+
+
+### Bug Fixes
+
+* Added README.md ([4eb6d68](https://github.com/amitrazz/ui-kit/commit/4eb6d682c4b2e9bd86e5fbdc6bbf3cff6c2af14b))
+
 # [1.1.0](https://github.com/amitrazz/ui-kit/compare/v1.0.0...v1.1.0) (2025-07-19)
 
 
